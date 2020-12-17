@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,500;0,700;1,500&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400&display=swap');
+
+body, input, textarea, button {
+  background-color: #1d1e1f;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 500;
+}
+
+.header {
+  border-color: white;
+  border-radius: 2px;
+  border-style: none none solid none;
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  margin: 0;
+  padding: 5px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 30px;
+}
+
+.link-container {
+  padding: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+  position:relative;
+  width: 100%;
+}
+
+.button {
+  font-size: 16px;
+  background-color: #358CFF;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  border-color: blue;
+  line-height: 2;
+  margin: 6px;
+  width: 90px;
+}
+
+.body {
+  padding: 15px;
+  padding-right: 25%;
+  padding-left: 25%;
+}
+
+.profile-pic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 50%;
+  height: 50%;
+  max-width: 300px;
+  max-height: 300px;
+  border: 2px white solid;
+  border-radius: 2px;
+}
+
+.intro {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
