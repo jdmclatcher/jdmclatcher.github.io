@@ -45,6 +45,7 @@ body, input, textarea, button {
   line-height: 2;
   margin: 6px;
   width: 90px;
+  cursor: pointer;
 }
 
 .body {
