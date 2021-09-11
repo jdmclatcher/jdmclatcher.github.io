@@ -61,8 +61,8 @@ body, input, textarea, button {
   margin-top: 25px;
   width: 50%;
   height: 50%;
-  max-width: 300px;
-  max-height: 300px;
+  max-width: 250px;
+  max-height: 250px;
   border: 2px white solid;
   border-radius: 2px;
 }
